@@ -1,0 +1,15 @@
+{
+  "name": "TetrisGame",
+  "description": "TetrisGame v1",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fahmi Fisal - Justryuz",
+    "url": "http://justryuz.blogspot.com"
+  },
+  "icons": {
+	"128": "/image/icon.png",
+    "120": "/image/icon.png",
+    "60": "/image/icon.png"
+  },
+  "orientation": "portrait-primary"
+}
